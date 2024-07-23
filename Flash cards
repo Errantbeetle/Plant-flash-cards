@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plant Flashcards</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .flashcard {
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 20px;
+            width: 300px;
+            text-align: center;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .flashcard img {
+            width: 100%;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="flashcard">
+        <img src="https://media.gettyimages.com/photos/closeup-of-purple-agapanthus-picture-id163872130?k=6&m=163872130&s=612x612&w=0&h=klQeBvjjT_KXosW_eBSWfE2wsNGDxTxLz0kZw-5vdEY=" alt="Agapanthus">
+        <h2>Agapanthus (Lily of the Nile)</h2>
+        <p><strong>Maintainable Height and Width:</strong></p>
+        <p>Height: 2-3 feet</p>
+        <p>Width: 1-2 feet</p>
+        <p><strong>Classification:</strong> Perennial, Evergreen</p>
+        <p><strong>Sunlight Requirements:</strong> Full sun to partial shade</p>
+        <p><strong>Deer Preference:</strong> Not preferred by deer</p>
+    </div>
+</body>
+</html>
